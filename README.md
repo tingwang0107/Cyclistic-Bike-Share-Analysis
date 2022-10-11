@@ -15,6 +15,5 @@ This analysis contains customer's bike-share data for a year (September 2021 - A
 The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, the marketing team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights,the team will design a new marketing strategy to convert casual riders into annual members.
 
 ### Business Task
-For Cyclistic executives to approve the recommendations, the project must be backed up with compelling data insights and professional data visualizations.  Director of marketing and my manager in this project, Lily Moreno, has assigned a question to answer:
-
+For Cyclistic executives to approve the recommendations, the project must be backed up with compelling data insights and professional data visualizations.  Director of marketing and my manager in this project, Lily Moreno, has assigned a question to answer: \
 **How do annual members and casual riders use Cyclistic bikes differently?**
